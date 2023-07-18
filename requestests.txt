@@ -1,0 +1,10 @@
+PyQt5
+PyQt5-tools
+requests
+zipfile
+configparser
+concurrent
+urllib
+selenium
+re
+bs4
