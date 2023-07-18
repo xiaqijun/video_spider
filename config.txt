@@ -1,0 +1,3 @@
+[FFmpeg]
+path = D:\Github\vedio_spider\ffmpeg-6.0-essentials_build\bin\ffmpeg.exe
+
